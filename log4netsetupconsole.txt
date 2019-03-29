@@ -1,0 +1,3 @@
+Step1. install log4net nuget package to the solution
+Step 2 : log4net.Config.XmlConfigurator.Configure(); in Assemblyinfo.cs
+       click on 
